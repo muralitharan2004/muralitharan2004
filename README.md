@@ -4,7 +4,7 @@ Hello,I'm MURALITHARAN , Welcome to my github profile.
 ## Know More to Visit this:
 
 ## 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/muralitharan-p-26b942294/)
-## ** PORTFOLIO LINK : https://muralitharan-info.netlify.app
+## ** PORTFOLIO LINK : [https://muralitharan-info.netlify.app](https://muralitharan2004-info.netlify.app/)
 
 ## About Me
 - 🎓  I am a pre-final year student passionate about Artificial Intelligence, Data Science, and Machine Learning. Here, you’ll find a collection of my projects, coursework, and experiments in these exciting fields. I'm intrested in UI/UX Design.
